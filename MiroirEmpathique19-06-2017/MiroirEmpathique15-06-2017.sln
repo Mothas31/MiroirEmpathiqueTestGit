@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiroirEmpathique15-06-2017", "MiroirEmpathique15-06-2017.csproj", "{2202CCD3-F03A-B626-2012-99212127EA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiroirEmpathique15-06-2017.Editor", "MiroirEmpathique15-06-2017.Editor.csproj", "{C352A387-D53E-928D-B85D-2392082DFAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2202CCD3-F03A-B626-2012-99212127EA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2202CCD3-F03A-B626-2012-99212127EA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2202CCD3-F03A-B626-2012-99212127EA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2202CCD3-F03A-B626-2012-99212127EA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C352A387-D53E-928D-B85D-2392082DFAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C352A387-D53E-928D-B85D-2392082DFAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C352A387-D53E-928D-B85D-2392082DFAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C352A387-D53E-928D-B85D-2392082DFAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
